@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows 8
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "MyBlog", "MyBlog\MyBlog.jsproj", "{E5FC11BB-B6EA-49A1-A263-1861DCB509DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5FC11BB-B6EA-49A1-A263-1861DCB509DA}.Debug|ARM.ActiveCfg = Debug|ARM
+		{E5FC11BB-B6EA-49A1-A263-1861DCB509DA}.Debug|ARM.Build.0 = Debug|ARM
+		{E5FC11BB-B6EA-49A1-A263-1861DCB509DA}.Debug|ARM.Deploy.0 = Debug|ARM
+		{E5FC11BB-B6EA-49A1-A263-1861DCB509DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5FC11BB-B6EA-49A1-A263-1861DCB509DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5FC11BB-B6EA-49A1-A263-1861DCB509DA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E5FC11BB-B6EA-49A1-A263-1861DCB509DA}.Debug|x64.ActiveCfg = Debug|x64
+		{E5FC11BB-B6EA-49A1-A263-1861DCB509DA}.Debug|x64.Build.0 = Debug|x64
+		{E5FC11BB-B6EA-49A1-A263-1861DCB509DA}.Debug|x64.Deploy.0 = Debug|x64
+		{E5FC11BB-B6EA-49A1-A263-1861DCB509DA}.Debug|x86.ActiveCfg = Debug|x86
+		{E5FC11BB-B6EA-49A1-A263-1861DCB509DA}.Debug|x86.Build.0 = Debug|x86
+		{E5FC11BB-B6EA-49A1-A263-1861DCB509DA}.Debug|x86.Deploy.0 = Debug|x86
+		{E5FC11BB-B6EA-49A1-A263-1861DCB509DA}.Release|ARM.ActiveCfg = Release|ARM
+		{E5FC11BB-B6EA-49A1-A263-1861DCB509DA}.Release|ARM.Build.0 = Release|ARM
+		{E5FC11BB-B6EA-49A1-A263-1861DCB509DA}.Release|ARM.Deploy.0 = Release|ARM
+		{E5FC11BB-B6EA-49A1-A263-1861DCB509DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5FC11BB-B6EA-49A1-A263-1861DCB509DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5FC11BB-B6EA-49A1-A263-1861DCB509DA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E5FC11BB-B6EA-49A1-A263-1861DCB509DA}.Release|x64.ActiveCfg = Release|x64
+		{E5FC11BB-B6EA-49A1-A263-1861DCB509DA}.Release|x64.Build.0 = Release|x64
+		{E5FC11BB-B6EA-49A1-A263-1861DCB509DA}.Release|x64.Deploy.0 = Release|x64
+		{E5FC11BB-B6EA-49A1-A263-1861DCB509DA}.Release|x86.ActiveCfg = Release|x86
+		{E5FC11BB-B6EA-49A1-A263-1861DCB509DA}.Release|x86.Build.0 = Release|x86
+		{E5FC11BB-B6EA-49A1-A263-1861DCB509DA}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
