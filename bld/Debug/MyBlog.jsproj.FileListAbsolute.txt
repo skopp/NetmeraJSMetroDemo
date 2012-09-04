@@ -1,0 +1,26 @@
+C:\Users\Serdar\Documents\Visual Studio 2012\Projects\MyBlog\MyBlog\bin\Debug\resources.pri
+C:\Users\Serdar\Documents\Visual Studio 2012\Projects\MyBlog\MyBlog\bin\Debug\AppxManifest.xml
+C:\Users\Serdar\Documents\Visual Studio 2012\Projects\MyBlog\MyBlog\bin\Debug\MyBlog.build.appxrecipe
+C:\Users\Serdar\Documents\Visual Studio 2012\Projects\MyBlog\MyBlog\bld\Debug\priconfig.xml.intermediate
+C:\Users\Serdar\Documents\Visual Studio 2012\Projects\MyBlog\MyBlog\bld\Debug\layout.resfiles.intermediate
+C:\Users\Serdar\Documents\Visual Studio 2012\Projects\MyBlog\MyBlog\bld\Debug\resources.resfiles.intermediate
+C:\Users\Serdar\Documents\Visual Studio 2012\Projects\MyBlog\MyBlog\bld\Debug\pri.resfiles.intermediate
+C:\Users\Serdar\Documents\Visual Studio 2012\Projects\MyBlog\MyBlog\bld\Debug\priconfig.xml
+C:\Users\Serdar\Documents\Visual Studio 2012\Projects\MyBlog\MyBlog\bld\Debug\layout.resfiles
+C:\Users\Serdar\Documents\Visual Studio 2012\Projects\MyBlog\MyBlog\bld\Debug\resources.resfiles
+C:\Users\Serdar\Documents\Visual Studio 2012\Projects\MyBlog\MyBlog\bld\Debug\pri.resfiles
+C:\Users\Serdar\Documents\Visual Studio 2012\Projects\MyBlog\MyBlog\bld\Debug\LanguageQualifiers.txt
+C:\Users\Serdar\Documents\Visual Studio 2012\Projects\MyBlog\MyBlog\bld\Debug\ProjectArchitectures.txt
+C:\Users\Serdar\Desktop\MyBlog\MyBlog\bin\Debug\resources.pri
+C:\Users\Serdar\Desktop\MyBlog\MyBlog\bin\Debug\AppxManifest.xml
+C:\Users\Serdar\Desktop\MyBlog\MyBlog\bin\Debug\MyBlog.build.appxrecipe
+C:\Users\Serdar\Desktop\MyBlog\MyBlog\bld\Debug\priconfig.xml.intermediate
+C:\Users\Serdar\Desktop\MyBlog\MyBlog\bld\Debug\layout.resfiles.intermediate
+C:\Users\Serdar\Desktop\MyBlog\MyBlog\bld\Debug\resources.resfiles.intermediate
+C:\Users\Serdar\Desktop\MyBlog\MyBlog\bld\Debug\pri.resfiles.intermediate
+C:\Users\Serdar\Desktop\MyBlog\MyBlog\bld\Debug\priconfig.xml
+C:\Users\Serdar\Desktop\MyBlog\MyBlog\bld\Debug\layout.resfiles
+C:\Users\Serdar\Desktop\MyBlog\MyBlog\bld\Debug\resources.resfiles
+C:\Users\Serdar\Desktop\MyBlog\MyBlog\bld\Debug\pri.resfiles
+C:\Users\Serdar\Desktop\MyBlog\MyBlog\bld\Debug\LanguageQualifiers.txt
+C:\Users\Serdar\Desktop\MyBlog\MyBlog\bld\Debug\ProjectArchitectures.txt

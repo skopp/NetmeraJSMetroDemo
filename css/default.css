@@ -1,0 +1,64 @@
+﻿
+body {
+}
+
+@media screen and (-ms-view-state: fullscreen-landscape) {
+}
+
+@media screen and (-ms-view-state: filled) {
+}
+
+@media screen and (-ms-view-state: snapped) {
+}
+
+@media screen and (-ms-view-state: fullscreen-portrait) {
+}
+
+#blogEntries {
+    padding: 20px;
+    font-family: 'Segoe UI';
+    font-size: 20px;
+}
+
+.blogTitle {
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.blogEntry {
+    padding: 5px;
+    border: 1px dashed #fff;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+
+#blogTitle {
+    width: 300px;
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid initial;
+    display: block;
+}
+
+#blogText {
+    width: 300px;
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid initial;
+    display: block;
+}
+
+#submitNewBlog {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid initial;
+}
+
+.left {
+    width: 100px;
+}
+
+.right {
+    
+}
